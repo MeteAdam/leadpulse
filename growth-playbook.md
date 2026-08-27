@@ -6,18 +6,28 @@ This playbook defines the zero-ad-spend customer acquisition system for **LeadPu
 
 ---
 
-## 2. Turkey-Friendly Monetization Setup (USD Revenue)
+## 2. Active Monetization Setup via Gumroad (USD Revenue)
 
-### Recommended: **Lemon Squeezy (Merchant of Record)**
-- **Why:** Full legal MoR (handles global VAT, taxes, fraud, and chargebacks). Supports Turkish founders and pays out directly in USD/EUR via Wise, Payoneer, or direct international SWIFT bank transfer.
-- **Setup Steps:**
-  1. Register at [lemonsqueezy.com](https://www.lemonsqueezy.com).
-  2. Create a new product: **LeadPulse AI — Pro Growth** ($29/month subscription).
-  3. Copy your Checkout Link (e.g. `https://leadpulse.lemonsqueezy.com/buy/...`).
-  4. Plug the URL into `app.js` or `index.html` on the `#buy-pro-btn` button.
+### Connected Store Link: [LeadPulse AI Pro on Gumroad](https://aydinmete.gumroad.com/l/zctpad)
+- **Why:** Zero tax-ID blocking hurdles, instant checkout generation, and support for international credit cards, Apple Pay, and PayPal with USD bank payouts to Turkey.
+- **Product Copy Template (Ready for Gumroad):**
+  - **Product Name:** `LeadPulse AI — Autonomous High-Intent Social Lead Finder (Pro Growth)`
+  - **Price:** `$29 / month` (or `$29 one-time pilot pack`)
+  - **Tagline:** `Find high-intent B2B customers on Reddit and social platforms on autopilot.`
+  - **Description:**
+    ```text
+    Turn social conversations into paying SaaS customers.
 
-### Alternative (Local TRY Sales): **Shopier / PayTR**
-- Ideal if targeting domestic Turkish developers/marketers in TRY.
+    What you get with LeadPulse AI Pro:
+    ✅ 300+ Verified High-Intent Buyer Signals per month
+    ✅ Unlimited Subreddits & Keywords Monitored 24/7
+    ✅ Instant Discord / Telegram & Email Webhook Alerts
+    ✅ AI Value-First Outreach Pitch Generator (Subreddit rule compliant)
+    ✅ One-Click Export to CSV / JSON / Notion CRM
+    ✅ 14-Day Money-Back Guarantee
+
+    Instant access to your live lead radar immediately upon checkout.
+    ```
 
 ---
 

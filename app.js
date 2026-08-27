@@ -296,15 +296,17 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // Pricing buttons
+  const GUMROAD_CHECKOUT_URL = 'https://aydinmete.gumroad.com/l/zctpad';
+
   document.querySelectorAll('.pricing-btn').forEach(btn => {
     btn.addEventListener('click', (e) => {
       const plan = e.currentTarget.getAttribute('data-plan');
       if (plan === 'free') {
         openModal('Activate Free Starter Pilot', '15 Free Leads');
       } else if (plan === 'pro') {
-        openModal('Upgrade to Pro Growth ($29/mo)', 'Lemon Squeezy Checkout Ready');
-      } else {
-        openModal('Activate Agency License ($79/mo)', 'Enterprise Growth Stack');
+        window.open(GUMROAD_CHECKOUT_URL, '_blank', 'noopener,noreferrer');
+      } else if (plan === 'agency') {
+        window.open(GUMROAD_CHECKOUT_URL, '_blank', 'noopener,noreferrer');
       }
     });
   });
