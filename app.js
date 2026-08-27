@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         <div class="ai-pitch-box">
           <div class="ai-pitch-header">
-            <span>✨ AI Value-First Outreach Draft (Subreddit Rule Compliant):</span>
+            <span>AI Contextual Outreach Draft (Rule-Compliant):</span>
             <button class="btn btn-sm btn-outline copy-pitch-btn" data-pitch="${escapeHtml(lead.pitchDraft)}" style="padding: 2px 8px; font-size: 0.75rem;">Copy Pitch</button>
           </div>
           <p class="ai-pitch-text">${escapeHtml(lead.pitchDraft)}</p>
