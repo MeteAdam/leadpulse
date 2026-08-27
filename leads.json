@@ -1,0 +1,50 @@
+[
+  {
+    "id": "seed_1",
+    "channel": "r/SaaS",
+    "author": "u/saas_builder_9",
+    "title": "Need a tool to monitor Reddit and Twitter for people asking for software recommendations",
+    "snippet": "We currently do manual keyword searches across 10 subreddits every morning. It takes 2+ hours daily. Is there a reliable SaaS that automates this and notifies via Discord/Email?",
+    "permalink": "https://reddit.com/r/SaaS/comments/sample_lead_1",
+    "intentScore": 96,
+    "category": "urgent",
+    "discoveredAt": "2026-08-27T16:50:59.837620+00:00",
+    "pitchDraft": "Hey u/saas_builder_9! Manual subreddit monitoring is a huge time sink. LeadPulse AI (leadpulse.ai) was specifically designed to track intent keywords across subreddits and deliver instant webhook alerts. Feel free to check it out!"
+  },
+  {
+    "id": "seed_2",
+    "channel": "r/Entrepreneur",
+    "author": "u/growth_agency_dan",
+    "title": "What's the best software for social selling & outbound lead qualification?",
+    "snippet": "Our agency is looking for a platform that extracts high-intent prospects from community discussions and helps draft tailored outreach. Budget up to $150/mo.",
+    "permalink": "https://reddit.com/r/Entrepreneur/comments/sample_lead_2",
+    "intentScore": 94,
+    "category": "budget",
+    "discoveredAt": "2026-08-27T16:50:59.837620+00:00",
+    "pitchDraft": "Hey Dan! For community-driven outbound, focusing on high buying intent triggers works significantly better than cold blasts. LeadPulse AI matches acute pain points and formats structured lead reports ready for CRM import."
+  },
+  {
+    "id": "seed_3",
+    "channel": "r/webdev",
+    "author": "u/freelance_coder_dev",
+    "title": "How to get freelance web development clients without Upwork fees?",
+    "snippet": "Tired of Upwork taking 10-20% cuts and competing with 50 bot bids. Where do people post genuine requests for custom web applications and automations?",
+    "permalink": "https://reddit.com/r/webdev/comments/sample_lead_3",
+    "intentScore": 88,
+    "category": "alternative",
+    "discoveredAt": "2026-08-27T16:50:59.837620+00:00",
+    "pitchDraft": "Hey! Many clients post directly in r/forhire, r/freelance, and r/webdev asking for recommendations. Using an automated intent monitor allows you to reach out first before threads get flooded."
+  },
+  {
+    "id": "seed_4",
+    "channel": "r/SideProject",
+    "author": "u/ai_wrapper_maker",
+    "title": "Looking for tools to find initial customers for my AI micro-SaaS",
+    "snippet": "Launched my tool 2 weeks ago and struggle with distribution. Need a way to find people asking about my product category on social media.",
+    "permalink": "https://reddit.com/r/SideProject/comments/sample_lead_4",
+    "intentScore": 91,
+    "category": "urgent",
+    "discoveredAt": "2026-08-27T16:50:59.837620+00:00",
+    "pitchDraft": "Hey! Early customer discovery is all about finding people in the middle of solving the exact problem. LeadPulse AI monitors discussions 24/7 so you can be the first to reach out with a helpful reply."
+  }
+]
